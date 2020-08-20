@@ -1,9 +1,9 @@
-# Getting-and-Cleaning-Data-Course-Project
+## Getting-and-Cleaning-Data-Course-Project
 
 The purpose of this Readme is to explain how to collect, work and clean a data set. In addition, a tidy data set was prepared to be used in further analysis.
 This repository submitted by Pabrício Lopes contains instructions on how to perform the analysis on the human activity recognition data set.
 
-# The project Data set
+### The project Data set
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -11,7 +11,7 @@ A complete description is available on the website where the data was obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-# Files
+### Files
 
 * `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
