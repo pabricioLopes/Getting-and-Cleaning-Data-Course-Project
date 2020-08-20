@@ -8,11 +8,11 @@ The `run_analysis.R` script performs the data preparation and then followed by t
 
 2.  Assign of the variables with rows and columns numbers 
      + `features` <- `features.txt` : 561 rows, 2 columns 
-     + The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.*
+     + The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
      + `activities` <- `activity_labels.txt` : 6 rows, 2 columns 
-     +  List of activities performed when the corresponding measurements were taken and its codes (labels)*
+     +  List of activities performed when the corresponding measurements were taken and its codes (labels)
      + `subject_test` <- `test/subject_test.txt` : 2947 rows, 1 column 
-     + contains test data of 9/30 volunteer test subjects being observed*
+     + contains test data of 9/30 volunteer test subjects being observed
      + `x_test` <- `test/X_test.txt` : 2947 rows, 561 columns 
      +  contains recorded features test data
      + `y_test` <- `test/y_test.txt` : 2947 rows, 1 columns 
