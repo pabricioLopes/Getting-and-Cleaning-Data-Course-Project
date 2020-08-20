@@ -1,12 +1,17 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This repository is a **Pabrício Lopes** submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+The purpose of this Readme is to explain how to collect, work and clean a data set. In addition, a tidy data set was prepared to be used in further analysis.
+This repository submitted by Pabrício Lopes contains instructions on how to perform the analysis on the human activity recognition data set.
 
-#### Dataset
+# The project Data set
 
-[Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-#### Files
+A complete description is available on the website where the data was obtained:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+# Files
 
 * `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
@@ -17,5 +22,5 @@ This repository is a **Pabrício Lopes** submission for Getting and Cleaning Dat
     + Appropriately labels the data set with descriptive variable names.
     + From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
     
-* `FinalData.txt` is the exported final data after going through all the sequences described above.
+* `Final_Data.txt` is the exported final data after going through all the sequences described above.
 
