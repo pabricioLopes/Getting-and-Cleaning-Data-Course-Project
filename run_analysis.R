@@ -1,6 +1,8 @@
 ## Descrition of Getting and Cleaning Data Course Project
 ###  Submission: Pabrício Lopes
 
+## Descrition of R script called run_analysis.R 
+
 ############################################################################################
 ### Load packages
 #############################################################################################
@@ -21,9 +23,8 @@ if (!file.exists(filename)){
 
   fileURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
   download.file(fileURL, filename, method="curl")
-  
-  
-}  
+  }  
+
 ###################################################################################################
 ### Check if the folder exists
 #################################################################################################
@@ -148,6 +149,8 @@ write.table(Final_Data, "Final_Data.txt", row.name=FALSE)
 
 ### The str command display only one line for each ‘basic’ structure 
 str(Final_Data)
+
+######################################################################################################
 ### Display at final data
   Final_Data
 ######################################################################################################
