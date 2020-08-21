@@ -1,4 +1,4 @@
-## Getting-and-Cleaning-Data-Course-Project
+### Getting-and-Cleaning-Data-Course-Project
 
 The purpose of this Readme is to explain how to collect, work and clean a data set. In addition, a tidy data set was prepared to be used in further analysis.
 This repository submitted by Pabrício Lopes contains instructions on how to perform the analysis on the human activity recognition data set.
